@@ -1,9 +1,9 @@
-# LimeOpt: Optimized Limestone Injection for SOx Reduction
+# 석회석 주입량 최적화 모델 개발
 
 
 ## 👥 팀원 구성
-- **이 원**: ([GitHub](https://github.com/yusongod0303))
-- **이유송**: ([GitHub](https://github.com/yusongod0303))
+- **팀장** : 이 원 ([GitHub](https://github.com/yusongod0303))
+- **팀원** : 이유송 ([GitHub](https://github.com/yusongod0303))
 
 ## 📌 프로젝트 개요
 배연·탈황 공정에서 석회석 주입량을 최적화하여 SOx (황산화물) 배출을 줄이는 데이터 기반 모델을 개발하였습니다. 
